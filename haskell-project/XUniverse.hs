@@ -1,5 +1,5 @@
 {-# LANGUAGE CPP #-}
-module Universe(sumBuiltinUsed,countAllStars) where
+module XUniverse(sumBuiltinUsed,countAllStars) where
 
 -- This is really more than unsafe.
 -- Better alternative welcome!

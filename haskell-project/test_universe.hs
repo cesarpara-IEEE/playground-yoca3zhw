@@ -1,4 +1,4 @@
-import Universe (sumBuiltinUsed,countAllStars)
+import XUniverse (sumBuiltinUsed,countAllStars)
 import Control.Monad
 import Control.Exception
 import Data.IORef
